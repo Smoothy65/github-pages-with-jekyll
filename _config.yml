@@ -2,7 +2,7 @@ title: En-als-ik,-in-die-leegte-ben
 date: 2021-12-17 
 author: Victor 
 email: your-email@domain.com
-description: > # "Allen" 
+description: > # this means to ignore newlines until "Allen:" 
 show_excerpts: true # set to false to remove excerpts on the homepage 
 theme: minima 
 
