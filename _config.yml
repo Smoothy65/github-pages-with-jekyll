@@ -1,7 +1,8 @@
 title: Your awesome title
 author: GitHub User 
+date: 2021-12-17
 email: your-email@domain.com
 description: > # this means to ignore newlines until "Allen:" 
  show_excerpts: true # set to false to remove excerpts on the homepage 
  theme: minima 
-date: 2021-12-17
+
