@@ -1,4 +1,4 @@
-title: En als ik, in die leegte ben
+
 author: Victor
 email: your-email@domain.com
 description: > # Allen
@@ -12,3 +12,5 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+title: "En als ik, in die leegte ben"
+date: 2021-12-17
